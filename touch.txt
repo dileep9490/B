@@ -5,3 +5,4 @@ now doing pull
 hello there merge inside A when there is some changes inside A 
 hello world
 hiiiii
+
